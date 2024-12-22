@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+      "/mnt/d/ws/rusty-book-manager/Cargo.toml"
+    ],
+  }
